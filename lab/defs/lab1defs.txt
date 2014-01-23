@@ -1,0 +1,14 @@
+2.
+
+Mkdir - Make a directory. Lage en directory/mappe.
+Cd - Change directory. Bevege seg fra directory til directory. 
+Ls - List directory. Lister innholdet i directory.
+Ls -l - List directory. Lister innholdet i directory i langt format, f.eks unix filtyper.
+Ls -la List directory. Langt format, men inkluderer også skjulte filer som starter med punktum, som ikke normalt vises.
+Pwd - Paths, Folders, Directories. Print working directory. Skriver ut innholdet i et fungerende directory.
+Pipes and Redirection - Redirection bestemmer hvor input og ouput går, dette bestemmes med |(pipes), <(mindre enn), >(mer enn).
+Grep - Se bestemt innhold i en fil.
+Cat - Skriver ut innholdet i en bestemt fil.
+Less - En måte å se innholdet i en fil på. Hvis filen har mange linjer, vil den vise så bare en fil om gangen er synlig på skjermen.
+
+
