@@ -1,0 +1,57 @@
+Oppgave 2
+Operatør prioritet i Python:
+Det finnes forskjellige operatører i Python. De er sortert etter hvilken som har høyest prioritet. Operatører i samme boks, har samme prioritet, og blir gruppert fra venstre til høyre. 
+
+
+One’s complement:
+One’s complement er en måte å representere negative tall binært. 
+Å representere et binært tall med «One’s complement» er gjort ved å endre alle bitsene som er 1 til 0 og bitsene som er 0 til 1. Å reversere bitsene på denne måten er også kalt «complementing a number». 
+Eks: 1) Først skriver vi den positive verdien av tallet binært:	 0101 (+5)
+2) Så reverserer vi hver bit for å få «one’s complement»: 	1010 (-5)
+
+(Legg merke til at «one’s complement» har forskjell på -0 og +0!)
+Binært:  	Desimal:
+0111		 7
+0110		 6
+0101		 5
+0100		 4
+0011		 3
+0010		 2
+0001		 1
+0000		 0
+1111		-0
+1110		-1
+1101		-2
+1100		-3
+1011		-4
+1010		-5
+1001		-6
+1000		-7 
+
+
+Two’s complement: 
+Two’s complement er en annen måte å representere negative tall binært. 
+Å represemtere et tall med «Two’s compliment» er gjort ved å legge til 1 til tallet som er representert fra «one’s complement». 
+Eks: 1) Først skriver vi den positive verdien av tallet binært:	 0101 (+5)
+2) Så reverserer vi hver bit for å få «one’s complement»: 	1010 (-6)
+3) Så legger vi til 1 til nummeret: 				1011 (-5)
+
+
+Binært:  	Desimal:
+0111		 7
+0110		 6
+0101		 5
+0100		 4
+0011		 3
+0010		 2
+0001		 1
+0000		 0
+1111		-1
+1110		-2
+1101		-3
+1100		-4
+1011		-5
+1010		-6
+1001		-7
+1000		-8 
+
