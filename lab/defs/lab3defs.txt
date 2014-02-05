@@ -1,0 +1,19 @@
+﻿Et regulært uttrykk (regular expression) 
+
+Regulære uttrykk blir brukt innen programmering som tekststrenger som har sin oppgave å beskrive et mønster. Det er altså mønstre som følger gitte regler. Blir brukt til å søke etter tekst på gitte mønstre. Det kan for eksempel være å søke etter gitte bokstaver, tall eller kombinasjoner. 
+
+Import  ­ hva betyr dette i et Python program?
+
+Import i Python vil si at man henter inn moduler eller annen tilleggsinformasjon. Når man importerer en modul i Python, vil den først sjekke modul-registeret for å se om modulen allerede er importert. Hvis det er tilfelle, vil Python bruke den allerede importerte modulen. Hvis ikke vil Python lage en ny modul. 
+
+“skript”­språk
+
+Skriptspråk er en type programmeringsspråk som kan tolkes av separate programmer og også utføres av separate programmer. Et skript er altså en fil med kommandoer i et skriptspråk. 
+
+Perl
+
+Perl, også kalt «Practical Extraction and Report Language» er et programmeringsspråk som låner mye av sin funksjonalitet fra flere andre programmeringsspråk, f.eks: C, awk, Unix-skripting, sed og Lisp. 
+
+Bash
+
+Bash er gratis programvare som erstatter Bourne shell. Bash er en kommando prosessor som typisk kjøres i et tekst vindu og lar brukerne skrive inn kommandoer som fører til forskjellige handlinger. Bash kan også lese kommandoer fra en fil (script). 
