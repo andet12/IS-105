@@ -1,0 +1,24 @@
+API - Application programming interface
+Applikasjonsprgrammeringsgrensesnitt, et grensesnitt for å lage programvare. Spesifiserer hvordan noen software-komponenter burde påvirke hverandre.
+
+IDE - Integrated Development Enviroment
+Er en type programvare som brukes til å skrive og lage annen programvare.
+
+top
+En oppgavebehandler som finnes i mange ulike Unix-type operativsystem.
+Viser en liste med kjørende prosesser. Er listet etter CPU-bruk.
+
+Kill
+Er en kommando for å avlslutte den kjørende prosessen.
+
+ps 
+Står for «process status». Ps-programmet viser den kjørende prosessen på det tidspunktet. 
+
+df «Disk Free». Brukes for å vise hvor mye ledig diskplass man har. 
+
+Netstat «Network statistics»
+er et kommandolinje-basert program som viser inngående og utgående nettverksforbindelser og statestikk til nettverksgrensesnittet. Benyttes til å løse problemer i nettverket og registrere datatrafikken. 
+
+ifconfig «Interface configuration» Brukes for å konfigurere og kontrollere systemets nettverks-grensesnitt. 
+
+who Viser en liste av hvem som for øyeblikket er logget inn på datamaskinen.
