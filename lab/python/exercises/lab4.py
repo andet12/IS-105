@@ -75,9 +75,9 @@ def print_history():
 
     proglangs = [('Python', '1989', 'Guido van Rossum'), ('C', '1969', 'Dennis Ritchie'), ('Java/Oak', '1991', 'James Gosling'), ('C++', '1979', 'Bjarne Stroustrup'), ('Ruby', '1991', 'Yukihiro "Matz" Matsumoto'), ('Perl', '1987' , 'Larry Wall'), ('Go/golang', '2007', 'Robert Griesemer, Rob Pike, and Ken Thompson')]
 
-    liste_av_tegn = list(proglangs)
+    sorted_liste = sorted(proglangs, key=lambda proglangs: proglangs[1])
     
-    for tegn in liste_av_tegn:
+    for tegn in sorted_liste:
         print "{} ble startet {} av {}" .format(tegn[0], tegn[1], tegn[2])
     
 print_history()
