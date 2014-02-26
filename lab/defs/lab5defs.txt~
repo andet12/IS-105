@@ -1,0 +1,31 @@
+Hva er de viktigste prosesstilstander i Linux OS
+
+Kjører eller kjørbar
+Uforstyrret sleep
+Forstyrret sleep (venter på en event som skal fullføres)
+Død/zombie, avsluttet, men ikke hentet inn av «parent»
+Stoppet, enten av et «job control signal», eller fordi den har blitt oppsporet 
+ 
+
+Forklar hva følgende kommandoer gjør  (<filnavn> ::= et filnavn):
+python <filnavn>.py
+	- starter/åpner en python fil
+
+ javac <filnavn>.java
+	- starter/åpner en java fil
+
+ java <filnavn>.class
+	- starter/åpner en java class 
+
+gcc -o <filnavn> <filnavn>.c
+	- starter/åpner en c fil og bruker gcc
+
+ sleep 100 & (utført fra kommandolinje)
+	-Utsette utføring av program en bestemt tid. Sleep 100 vil da si 100 
+
+cat /proc/cpuinfo
+Kommando for å få informasjon om prosessor
+
+Multiprogrammering
+	- Multiprogrammering er en teknikk der flere programmer ligger inne i minnet samtidig og er klare til å kjøres så snart CPU’en er ledig. Dermed utnyttes CPU’en mye bedre. 
+
