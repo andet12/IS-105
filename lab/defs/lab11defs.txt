@@ -1,0 +1,20 @@
+#  IS-105 LAB11
+#  Implementer alt som er markert med OPPGAVE.
+#  I tillegg skal du i filen lab11defs.txt beskrive et program (så detaljert du kan)
+#	for en poker server, hvor spillere kan melde seg på et poker spill, 
+#	få utdelt en hånd hver, legge inn en sats eller kaste sin hånd 
+#	og få utpekt en (eller flere i tilfelle uavgjort) vinner.
+#	Det er lagt ut flere implementasjoner av sockets klient-tjener modell i Class Fronter.
+#	Det som er aktuelt å se på er de som er implementert i Python.
+
+######Program for poker server######
+#1 Spillerne melder seg inn i et valgt spill
+#2 Serveren gir tilbakemelding: antall spillere, hvem som spiller
+#3 Kortene blir delt ut til spillerne
+#4 Spillerene ser kortene
+#5 Spillern til venstre for utdeler(dealer) starter, går så på rundgang
+#6 Spillerene kan enten:bet, check, raise, call eller fold(kaste seg)
+- Raise, bet og call havner i potten
+- Gjentar seg til siste runde 
+#7 Spillernes kort vises (kun dem som ikke har kastet seg)
+#8 Spilleren med de beste kortene vinner potten, ev. uavgjort. da deles potten.
