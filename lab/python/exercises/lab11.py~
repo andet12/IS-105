@@ -17,9 +17,9 @@
 import random # brukes for å dele ut kort
 
 # Skriv inn fullt navn på gruppemedlemene (erstatte '-' med navn slikt 'Kari Trå')
-gruppe = {  'student1': 'Anders Thingelstad', \
-			'student2': 'Fredrik Sjulstad', \
-            'student3': 'Fredrik Sverdrup Lilleeng', \
+gruppe = {  'student1': '-', \
+			'student2': '-', \
+            'student3': '-', \
 }
 
 # Oppgave 
